@@ -1,3 +1,7 @@
 def premier(nombre)
-	return false;
+	if (nombre > 1)
+		return true
+	else 
+		return false;
+	end
 end

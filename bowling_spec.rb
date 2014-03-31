@@ -1,3 +1,4 @@
+#! rspec
 # bowling_spec.rb
 require './bowling'
 
