@@ -12,6 +12,6 @@ describe "#scope" do
 		[0, 1, 0, 0],
 		[0, 1, 1, 1],
 		[0, 0, 0, 0]]
-		rotation90degree(gridBefore).should eq(gridAfter)
+		rotation90droite(gridBefore).should eq(gridAfter)
 	end
 end
